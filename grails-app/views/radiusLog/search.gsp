@@ -77,9 +77,9 @@
 						</td>
 					</tr>
 					<tr>
-						<td><strong>Authentication Type</strong></td>
+						<td><strong>EAP Type</strong></td>
 						<td>
-							${event.authentication_type }
+							${event.eap_type }
 						</td>
 					</tr>
 					<tr>
