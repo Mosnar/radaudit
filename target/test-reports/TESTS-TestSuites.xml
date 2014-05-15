@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="h80ad0af1.dhcp.vt.edu" id="0" name="RadiusLogControllerSpec" package="radiusauth" tests="3" time="3.551" timestamp="2014-05-08T20:00:39">
+      <properties />
+
+      <testcase classname="radiusauth.RadiusLogControllerSpec" name="test index" time="2.31" />
+
+      <testcase classname="radiusauth.RadiusLogControllerSpec" name="test search with no params" time="0.595" />
+
+      <testcase classname="radiusauth.RadiusLogControllerSpec" name="test search with empty params" time="0.619" />
+
+      <system-out><![CDATA[--Output from test index--
+--Output from test search with no params--
+--Output from test search with empty params--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test index--
+--Output from test search with no params--
+--Output from test search with empty params--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

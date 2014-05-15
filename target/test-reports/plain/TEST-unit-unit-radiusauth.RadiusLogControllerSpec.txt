@@ -1,0 +1,16 @@
+Testsuite: radiusauth.RadiusLogControllerSpec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 3.551 sec
+------------- Standard Output ---------------
+--Output from test index--
+--Output from test search with no params--
+--Output from test search with empty params--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test index--
+--Output from test search with no params--
+--Output from test search with empty params--
+------------- ---------------- ---------------
+
+Testcase: test index took 2.311 sec
+Testcase: test search with no params took 0.595 sec
+Testcase: test search with empty params took 0.619 sec

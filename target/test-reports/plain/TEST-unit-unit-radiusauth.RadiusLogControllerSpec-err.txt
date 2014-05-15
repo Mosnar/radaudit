@@ -1,0 +1,3 @@
+--Output from test index--
+--Output from test search with no params--
+--Output from test search with empty params--
